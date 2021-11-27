@@ -1,0 +1,28 @@
+{
+  "name": "node_basic_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archepro84/Node_Basic_Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/archepro84/Node_Basic_Project/issues"
+  },
+  "homepage": "https://github.com/archepro84/Node_Basic_Project#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "eslint": "^7.32.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.13",
+    "mongoose-auto-increment": "^5.0.1",
+    "sequelize": "^6.12.0-alpha.1"
+  }
+}
